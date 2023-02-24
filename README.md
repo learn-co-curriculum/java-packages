@@ -20,7 +20,7 @@ about classes inside a package. Every class must have a name that is unique
 within the package.  However, it is possible for
 classes in different packages to have the same name.
 
-Let's say company A, The Acme Corp, wants to implement a student grading
+Let's say a company, The Acme Corp, wants to implement a student grading
 functionality, and I, The Dunder Mifflin company, also want to implement a
 student grading functionality. We both have the brilliant idea to create a
 class named `StudentGradeTranslator` to help translate numerical grades into letter grades.
